@@ -1,1 +1,2 @@
 1.1.0
+downloadUrl=https://github.com/Glazov-mikhail/Remember-Me/releases/download/v1.1.0/update.zip
